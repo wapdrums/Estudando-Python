@@ -1,0 +1,1 @@
+#7 desenvolva um programa que leia as duas novas de um aluno, calcule e mostre a media
